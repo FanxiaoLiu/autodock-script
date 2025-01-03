@@ -1,0 +1,1 @@
+Make sure to install Anaconda before running the scripts. After installing Conda, follow instructions here: https://pypi.org/project/vina/
