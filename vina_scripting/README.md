@@ -1,1 +1,1 @@
-Make sure to install Anaconda before running the scripts. After installing Conda, follow instructions here: https://pypi.org/project/vina/
+Make sure to install Anaconda before running the scripts. After installing Conda, follow instructions here: https://pypi.org/project/vina/ Make sure to install it in the general vina_scripting folder
