@@ -33,5 +33,3 @@ def docking(prepped_receptor, prepped_ligand, unprepped_pdb, box_size, exhaustiv
 
 def testing():
     docking('protein-pdbqt/nmdareceptor.pdbqt', 'ligand-pdbqt/ketamine.pdbqt', 'proteins/4pe5.pdb', 50, 32, 20, 5, 'output-files/nmda-ketamine.pdbqt')
-
-testing()
